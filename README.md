@@ -8,5 +8,5 @@
 1. [Guard Gallivant](./Day06/README.md)
 1. [Bridge Repair](./Day07/README.md)
 1. [Resonant Collinearity](./Day08/README.md)
-1. [Resonant Collinearity](./Day09/README.md)
+1. [Disk Fragmenter](./Day09/README.md)
 1. [Resonant Collinearity](./Day10/README.md)
